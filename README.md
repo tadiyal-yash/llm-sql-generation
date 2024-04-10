@@ -1,4 +1,3 @@
-# llm-sql-generation
 SQL Query Generation by Fine-tuning an LLM
 ## BigQuery Query Generation with Fine-tuned LLMs
 
